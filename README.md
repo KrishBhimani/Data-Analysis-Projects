@@ -1,4 +1,4 @@
-# Data Analysis Projects
+# Data Science Projects
 Data Analysis Projects Repository
 
 Welcome to the Data Analysis Projects repository! This repository contains a collection of data analysis projects that explore various datasets and topics. Each project focuses on analyzing data, gaining insights, and presenting findings through visualizations and reports.
